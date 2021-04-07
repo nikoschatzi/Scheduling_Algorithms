@@ -10,7 +10,7 @@
 
 
 <p align="center">
-<img src="https://github.com/nikoschatzi/Scheduling_Algorithms/blob/main/scheduling_algorithms.mp4" align="center" width="705" height="380" />
+<img src="code_execution_video.gif" align="center" width="705" height="380" />
 </p>
 
 
